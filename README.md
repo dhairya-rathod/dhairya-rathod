@@ -199,8 +199,8 @@
 
 <p align="left">
 
-<a href="https://linkedin.com/in/dhairya-rathod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhairya-rathod" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://instagram.com/dhairya0o7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhairya0o7" alt="Instagram" height="30" width="40" /></a>
-<a href="https://twitter.com/dhairya0o7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhairya0o7" alt="Twitter" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dhairya-rathod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhairya-rathod" title="LinkedIn" height="30" width="40" /></a>
+<a href="https://instagram.com/dhairya0o7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhairya0o7" title="Instagram" height="30" width="40" /></a>
+<a href="https://twitter.com/dhairya0o7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhairya0o7" title="Twitter" height="30" width="40" /></a>
 
 </p>
