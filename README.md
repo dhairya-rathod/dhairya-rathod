@@ -8,7 +8,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **TypeScript**, **NextJs** and **DSA**.
 
 - 📫 How to reach me **dhairya.rathod.us@gmail.com**
 
