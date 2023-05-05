@@ -28,15 +28,14 @@
 
 ###
 
-<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
-
-###
-
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">- 🔭 I’m working as Software Engineer<br>- 📚 I'm currently learning TypeScript & Java<br>- ⚡ Fun fact I play video games and do workout very often<br>-📫 How to reach me dhairya.rathod.us@gmail.com</p>
+- 🔭 I’m working as a Software Engineer
+- 📚 I'm currently learning TypeScript & Java
+- ⚡ Fun fact I play video games and do workout very often
+- 📫 How to reach me dhairya.rathod.us@gmail.com
 
 ###
 
