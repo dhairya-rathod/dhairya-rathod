@@ -35,7 +35,7 @@
 - 🔭 I’m working as a Software Engineer
 - 📚 I'm currently learning TypeScript & Golang
 - ⚡ Fun fact I play video games and do workout very often
-- 📫 How to reach me dhairya.rathod.us@gmail.com
+- 📫 How to reach me dhairyar10@gmail.com
 
 ###
 
