@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="250" src="https://camo.githubusercontent.com/f6decabc6a509fd6d5d8a1053fedc3ad96458e223c6a9f8f312d125b6e833c7b/68747470733a2f2f692e696d6775722e636f6d2f6958754c3148472e706e67"  />
+  <img height="250" src="https://dhairya-rathod.netlify.app/_next/static/media/home-programming.94a11406.svg"  />
 </div>
 
 ###
@@ -33,7 +33,7 @@
 ###
 
 - 🔭 I’m working as a Software Engineer
-- 📚 I'm currently learning TypeScript & Golang
+- 📚 I'm currently learning TypeScript & Golang <img>
 - ⚡ Fun fact I play video games and do workout very often
 - 📫 How to reach me dhairya.rathod.us@gmail.com
 
@@ -51,7 +51,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="52" alt="express logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" width="52" alt="golang logo"  />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" width="52" alt="golang logo"  /> -->
+  <img src="https://github.com/egonelbre/gophers/raw/master/.thumb/vector/friends/heart-hug.png" height="40"  alt="golang logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" width="52" alt="graphql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
